@@ -13,7 +13,7 @@ Explain
 
 ## How to test
 
-Explain how to use your project
+Explain how
 
 ## External hardware
 
